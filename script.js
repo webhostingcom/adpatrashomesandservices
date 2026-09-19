@@ -663,7 +663,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
                 ctx.fillText(
-                    "KKO",
+                    "KKO LTD",
                     width / 2,
                     height / 2
                 );
