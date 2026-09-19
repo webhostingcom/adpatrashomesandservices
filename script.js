@@ -663,7 +663,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
                 ctx.fillText(
-                    "MAJESTIC",
+                    "KKO",
                     width / 2,
                     height / 2
                 );
