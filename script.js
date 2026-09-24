@@ -663,7 +663,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
                 ctx.fillText(
-                    "PEPAT",
+                    "ADPATRAS",
                     width / 2,
                     height / 2
                 );
